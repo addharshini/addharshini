@@ -19,7 +19,6 @@ I love building security tools and exploring AI-driven security solutions.
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ## 📌 Featured Projects
 [Vulnerability scanner](https://github.com/addharshini/Vulnerabilities_scanner/)
