@@ -1,27 +1,28 @@
 # Hi there, I'm Divya(DD) 👋
 
 ## 🚀 About Me
-I'm an aspiring **Security Engineer & Privacy Enthusiast** with experience in **penetration testing, web security, and privacy engineering**. 
+I'm an aspiring **Security Engineer** with experience in **Cloud security, AI/ML, Penetration testing, and Web Security.** 
 I love building security tools and exploring AI-driven security solutions.
 
 - 🔍 Currently working on **Tool to differentitate between Humans and Robots**
-- 💻 Building security projects for my **GitHub portfolio**
 - 🎯 Preparing for **security engineer interviews**
 - 📝 Writing about **privacy & cybersecurity** on [Medium](https://medium.com/@addharshini)
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=black)](https://aws.amazon.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF8800?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+[![Nmap](https://img.shields.io/badge/Nmap-004A94?style=for-the-badge&logo=nmap&logoColor=black)](https://nmap.org/)  
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ## 📌 Featured Projects
-- 🔥 https://github.com/addharshini/Vulnerabilities_scanner
-
+[Vulnerability scanner](https://github.com/addharshini/Vulnerabilities_scanner/)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-dharshini-arth/)
