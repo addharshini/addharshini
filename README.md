@@ -21,8 +21,8 @@ I love building security tools and exploring AI-driven security solutions.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ## 📌 Featured Projects
-[![Vulnerability scanner]](https://github.com/addharshini/Vulnerabilities_scanner/)
-[![Data Anonymizer]](https://github.com/addharshini/DataAnonymizer/)
+- [Vulnerability scanner](https://github.com/addharshini/Vulnerabilities_scanner/)
+- [Data Anonymizer](https://github.com/addharshini/DataAnonymizer/)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-dharshini-arth/)
