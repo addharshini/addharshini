@@ -4,7 +4,7 @@
 I'm an aspiring **Security Engineer** with experience in **Cloud security, AI/ML, Penetration testing, and Web Security.** 
 I love building security tools and exploring AI-driven security solutions.
 
-- 🔍 Currently working on **Tool to differentitate between Humans and Robots**
+- 🔍 Currently working on **Tool to differentitate between Humans and Robots while chatting**
 - 🎯 Preparing for **security engineer interviews**
 - 📝 Writing about **privacy & cybersecurity** on [Medium](https://medium.com/@addharshini)
 
