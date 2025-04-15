@@ -22,6 +22,7 @@ I love building security tools and exploring AI-driven security solutions.
 ## 📌 Featured Projects
 - [Vulnerability scanner](https://github.com/addharshini/Vulnerabilities_scanner/)
 - [Data Anonymizer](https://github.com/addharshini/DataAnonymizer/)
+- [Bot_Detector_Game](https://github.com/addharshini/Bot_Detector_Game/)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-dharshini-arth/)
