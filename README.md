@@ -16,9 +16,6 @@ I love building security tools and exploring AI-driven security solutions.
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 [![Nmap](https://img.shields.io/badge/Nmap-004A94?style=for-the-badge&logo=nmap&logoColor=black)](https://nmap.org/)  
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
 ## 📌 Featured Projects
 - [DepSentinel](https://github.com/addharshini/DepSentinel/)
 - [Vulnerability scanner](https://github.com/addharshini/Vulnerabilities_scanner/)
@@ -28,3 +25,7 @@ I love building security tools and exploring AI-driven security solutions.
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-dharshini-arth/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@addharshini)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
