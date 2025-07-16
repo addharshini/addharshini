@@ -4,9 +4,6 @@
 I'm an aspiring **Security Engineer** with experience in **Cloud security, AI/ML, Penetration testing, and Web Security.** 
 I love building security tools and exploring AI-driven security solutions.
 
-- 🎯 Preparing for **security engineer interviews**
-- 📝 Writing about **privacy & cybersecurity** on [Medium](https://medium.com/@addharshini)
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-dharshini-arth/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@addharshini)
