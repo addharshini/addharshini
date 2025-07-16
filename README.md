@@ -7,6 +7,10 @@ I love building security tools and exploring AI-driven security solutions.
 - 🎯 Preparing for **security engineer interviews**
 - 📝 Writing about **privacy & cybersecurity** on [Medium](https://medium.com/@addharshini)
 
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-dharshini-arth/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@addharshini)
+
 ## 🛠️ Tech Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -22,10 +26,5 @@ I love building security tools and exploring AI-driven security solutions.
 - [Data Anonymizer](https://github.com/addharshini/DataAnonymizer/)
 - [Bot_Detector_Game](https://github.com/addharshini/Bot_Detector_Game/)
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-dharshini-arth/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@addharshini)
-
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
