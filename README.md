@@ -20,6 +20,7 @@ I love building security tools and exploring AI-driven security solutions.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ## 📌 Featured Projects
+- [DepSentinel](https://github.com/addharshini/DepSentinel/)
 - [Vulnerability scanner](https://github.com/addharshini/Vulnerabilities_scanner/)
 - [Data Anonymizer](https://github.com/addharshini/DataAnonymizer/)
 - [Bot_Detector_Game](https://github.com/addharshini/Bot_Detector_Game/)
