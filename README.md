@@ -19,6 +19,7 @@ I love building security tools and exploring AI-driven security solutions.
 
 ## 📌 Featured Projects
 - [DepSentinel](https://github.com/addharshini/DepSentinel/)
+- [SecAnalyzer](https://github.com/addharshini/SecAnalyzer/)
 - [Vulnerability scanner](https://github.com/addharshini/Vulnerabilities_scanner/)
 - [Privacy Anonymizer](https://github.com/addharshini/PrivacyAnonymizer/)
 - [Bot_Detector_Game](https://github.com/addharshini/Bot_Detector_Game/)
